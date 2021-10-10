@@ -1,3 +1,3 @@
-# TodoList-VannilaJS
+# TodoList-VanillaJS
 
-Aplikace úkoly ve Vannile Javascriptu.
+Aplikace úkoly ve Vanille Javascriptu.
